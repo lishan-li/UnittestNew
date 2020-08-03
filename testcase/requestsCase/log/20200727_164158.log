@@ -1,0 +1,21 @@
+2020-07-27 16:41:59,010 - testcase.common.loggerInfo - INFO - test_sendMessage_00001_imageNotExistMessage (test_sendMessage.Test)
+2020-07-27 16:41:59,011 - testcase.common.loggerInfo - INFO - b'{"errcode":2, "message": "token not found"}'
+2020-07-27 16:41:59,011 - testcase.common.loggerInfo - INFO - 403
+2020-07-27 16:41:59,465 - testcase.common.loggerInfo - INFO - test_sendMessage_00002_discountMessage (test_sendMessage.Test)
+2020-07-27 16:41:59,465 - testcase.common.loggerInfo - INFO - b'{"errcode":2, "message": "token not found"}'
+2020-07-27 16:41:59,465 - testcase.common.loggerInfo - INFO - 403
+2020-07-27 16:41:59,808 - testcase.common.loggerInfo - INFO - test_sendMessage_00003_goodsMessage (test_sendMessage.Test)
+2020-07-27 16:41:59,809 - testcase.common.loggerInfo - INFO - b'{"errcode":2, "message": "token not found"}'
+2020-07-27 16:41:59,809 - testcase.common.loggerInfo - INFO - 403
+2020-07-27 16:42:00,218 - testcase.common.loggerInfo - INFO - test_sendMessage_00004_textMessage (test_sendMessage.Test)
+2020-07-27 16:42:00,218 - testcase.common.loggerInfo - INFO - b'{"errcode":2, "message": "token not found"}'
+2020-07-27 16:42:00,219 - testcase.common.loggerInfo - INFO - 403
+2020-07-27 16:42:00,619 - testcase.common.loggerInfo - INFO - test_sendMessage_00005_expressionMessage (test_sendMessage.Test)
+2020-07-27 16:42:00,620 - testcase.common.loggerInfo - INFO - b'{"errcode":2, "message": "token not found"}'
+2020-07-27 16:42:00,620 - testcase.common.loggerInfo - INFO - 403
+2020-07-27 16:42:00,983 - testcase.common.loggerInfo - INFO - test_sendMessage_00006_imageMessage (test_sendMessage.Test)
+2020-07-27 16:42:00,983 - testcase.common.loggerInfo - INFO - b'{"errcode":2, "message": "token not found"}'
+2020-07-27 16:42:00,983 - testcase.common.loggerInfo - INFO - 403
+2020-07-27 16:42:01,350 - testcase.common.loggerInfo - INFO - test_sendMessage_00007_characterMessage (test_sendMessage.Test)
+2020-07-27 16:42:01,350 - testcase.common.loggerInfo - INFO - b'{"errcode":2, "message": "token not found"}'
+2020-07-27 16:42:01,350 - testcase.common.loggerInfo - INFO - 403

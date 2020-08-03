@@ -1,0 +1,63 @@
+2020-07-24 16:17:17,346 - testcase.common.loggerInfo - INFO - test_sendMessage_00001_discountMessage (test_sendMessage.Test)
+2020-07-24 16:17:17,347 - testcase.common.loggerInfo - INFO - b'{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVhdGVfdGltZSI6MTU5NTU3ODYzNywiaWQiOiIxNjYyMWNkMy1jZDg2LTExZWEtODAzNC1jY2JiZmVkZjJhMWEifQ.waucU7IOJMk-nOm66ShsoeCaQ2PWqQ53vQnDuegNXZk","p_token":"Rjk2enRPV0xYQ2h6Z0U5MYaPaAdq8RlbYGUUAkyCjEo=","user":{"id":322265,"uid":"0-322265","name":"test_sg_002","type":"seller","avatar":"","locale":"zh-Hant","shop_id":322266,"country":"SG","status":"normal"},"version":1}'
+2020-07-24 16:17:17,347 - testcase.common.loggerInfo - INFO - 200
+2020-07-24 16:17:17,671 - testcase.common.loggerInfo - INFO - test_sendMessage_00001_discountMessage (test_sendMessage.Test)
+2020-07-24 16:17:17,671 - testcase.common.loggerInfo - INFO - b'{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVhdGVfdGltZSI6MTU5NTU3ODYzNywiaWQiOiIxNjk1ZDhhMi1jZDg2LTExZWEtODAzNC1jY2JiZmVkZjJhMWEifQ.0bH0Bml-ipSQ2Uf6gYKZYXi7jyY7brMeVay0XxC_kVw","p_token":"ZDJoTGdFbU84Mm1VaFF2YebVCgcN3FBI7B0apm1Lcjc=","user":{"id":322265,"uid":"0-322265","name":"test_sg_002","type":"seller","avatar":"","locale":"zh-Hant","shop_id":322266,"country":"SG","status":"normal"},"version":1}'
+2020-07-24 16:17:17,671 - testcase.common.loggerInfo - INFO - 200
+2020-07-24 16:17:17,893 - testcase.common.loggerInfo - INFO - test_sendMessage_00001_discountMessage (test_sendMessage.Test)
+2020-07-24 16:17:17,893 - testcase.common.loggerInfo - INFO - b'{"data":null,"error_code":"user_is_unauthorizedUser is unauthorized.","message":"user_is_unauthorizedUser is unauthorized."}'
+2020-07-24 16:17:17,893 - testcase.common.loggerInfo - INFO - 401
+2020-07-24 16:17:18,241 - testcase.common.loggerInfo - INFO - test_sendMessage_00002_imageNotExistMessage (test_sendMessage.Test)
+2020-07-24 16:17:18,241 - testcase.common.loggerInfo - INFO - b'{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVhdGVfdGltZSI6MTU5NTU3ODYzOCwiaWQiOiIxNmViZThmYS1jZDg2LTExZWEtODAzNC1jY2JiZmVkZjJhMWEifQ.heWHscjUB7zGYcIwqtrnPMGTxbhwnsTXFd-IjZC4aFc","p_token":"VGlKeURDSkR6QklndzdzSWE1qeNlfe8lvsm7oI3DgAI=","user":{"id":322265,"uid":"0-322265","name":"test_sg_002","type":"seller","avatar":"","locale":"zh-Hant","shop_id":322266,"country":"SG","status":"normal"},"version":1}'
+2020-07-24 16:17:18,242 - testcase.common.loggerInfo - INFO - 200
+2020-07-24 16:17:18,575 - testcase.common.loggerInfo - INFO - test_sendMessage_00002_imageNotExistMessage (test_sendMessage.Test)
+2020-07-24 16:17:18,575 - testcase.common.loggerInfo - INFO - b'{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVhdGVfdGltZSI6MTU5NTU3ODYzOCwiaWQiOiIxNzFmZTVjNC1jZDg2LTExZWEtODAzNC1jY2JiZmVkZjJhMWEifQ.bmtU67RIb9wS_IjIQhd5svqmMXJzAH1h4syLgLzgE28","p_token":"ZXRGM3JSaGJ4N1Rpc2RUazgSnRAiZGwNpof182h5Qdk=","user":{"id":322265,"uid":"0-322265","name":"test_sg_002","type":"seller","avatar":"","locale":"zh-Hant","shop_id":322266,"country":"SG","status":"normal"},"version":1}'
+2020-07-24 16:17:18,575 - testcase.common.loggerInfo - INFO - 200
+2020-07-24 16:17:18,798 - testcase.common.loggerInfo - INFO - test_sendMessage_00002_imageNotExistMessage (test_sendMessage.Test)
+2020-07-24 16:17:18,799 - testcase.common.loggerInfo - INFO - b'{"data":null,"error_code":"user_is_unauthorizedUser is unauthorized.","message":"user_is_unauthorizedUser is unauthorized."}'
+2020-07-24 16:17:18,799 - testcase.common.loggerInfo - INFO - 401
+2020-07-24 16:17:19,175 - testcase.common.loggerInfo - INFO - test_sendMessage_00003_imageMessage (test_sendMessage.Test)
+2020-07-24 16:17:19,175 - testcase.common.loggerInfo - INFO - b'{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVhdGVfdGltZSI6MTU5NTU3ODYzOSwiaWQiOiIxNzdiODk1ZS1jZDg2LTExZWEtODAzNC1jY2JiZmVkZjJhMWEifQ.Oqi1JzEIAKgNrogodPFc_qYA0rMU8cQc4-_6Y0sOtFE","p_token":"Q1BNUk9qQXdzY1daeUhvcfyg6HOviGvMHIrbVZ6f02M=","user":{"id":322265,"uid":"0-322265","name":"test_sg_002","type":"seller","avatar":"","locale":"zh-Hant","shop_id":322266,"country":"SG","status":"normal"},"version":1}'
+2020-07-24 16:17:19,175 - testcase.common.loggerInfo - INFO - 200
+2020-07-24 16:17:19,499 - testcase.common.loggerInfo - INFO - test_sendMessage_00003_imageMessage (test_sendMessage.Test)
+2020-07-24 16:17:19,499 - testcase.common.loggerInfo - INFO - b'{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVhdGVfdGltZSI6MTU5NTU3ODYzOSwiaWQiOiIxN2FhMzY5ZS1jZDg2LTExZWEtODAzNC1jY2JiZmVkZjJhMWEifQ.Rm5pHzR1AhxU9rnhsqAp9zOV15zI2F_uonbH5tZLB-c","p_token":"eWkzejY0NEphWFlqRUZqUyCGKfpOBecplr/MWOvcXlw=","user":{"id":322265,"uid":"0-322265","name":"test_sg_002","type":"seller","avatar":"","locale":"zh-Hant","shop_id":322266,"country":"SG","status":"normal"},"version":1}'
+2020-07-24 16:17:19,499 - testcase.common.loggerInfo - INFO - 200
+2020-07-24 16:17:19,714 - testcase.common.loggerInfo - INFO - test_sendMessage_00003_imageMessage (test_sendMessage.Test)
+2020-07-24 16:17:19,715 - testcase.common.loggerInfo - INFO - b'{"data":null,"error_code":"user_is_unauthorizedUser is unauthorized.","message":"user_is_unauthorizedUser is unauthorized."}'
+2020-07-24 16:17:19,715 - testcase.common.loggerInfo - INFO - 401
+2020-07-24 16:17:20,006 - testcase.common.loggerInfo - INFO - test_sendMessage_00004_characterMessage (test_sendMessage.Test)
+2020-07-24 16:17:20,006 - testcase.common.loggerInfo - INFO - b'{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVhdGVfdGltZSI6MTU5NTU3ODYzOSwiaWQiOiIxN2ZhZGUwNC1jZDg2LTExZWEtODAzNC1jY2JiZmVkZjJhMWEifQ.gdI0mj1G8lQa9rF58rZj-Hetf6EH7DNtcTAvO-bulW4","p_token":"RTl6SkdNYXVBalFNTWpIYXzCNLXnFiUiAqF6O2QE0C0=","user":{"id":322265,"uid":"0-322265","name":"test_sg_002","type":"seller","avatar":"","locale":"zh-Hant","shop_id":322266,"country":"SG","status":"normal"},"version":1}'
+2020-07-24 16:17:20,006 - testcase.common.loggerInfo - INFO - 200
+2020-07-24 16:17:20,319 - testcase.common.loggerInfo - INFO - test_sendMessage_00004_characterMessage (test_sendMessage.Test)
+2020-07-24 16:17:20,319 - testcase.common.loggerInfo - INFO - b'{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVhdGVfdGltZSI6MTU5NTU3ODY0MCwiaWQiOiIxODJhMTVkMS1jZDg2LTExZWEtODAzNC1jY2JiZmVkZjJhMWEifQ.5iCG0vMwq3MjwI6b1tHpMtVoHQo1eHO4r0P_88a9_78","p_token":"TWFMOHlaanVSM05vVUhoSYMWFM+30mtKxkOV91wXr8E=","user":{"id":322265,"uid":"0-322265","name":"test_sg_002","type":"seller","avatar":"","locale":"zh-Hant","shop_id":322266,"country":"SG","status":"normal"},"version":1}'
+2020-07-24 16:17:20,319 - testcase.common.loggerInfo - INFO - 200
+2020-07-24 16:17:20,538 - testcase.common.loggerInfo - INFO - test_sendMessage_00004_characterMessage (test_sendMessage.Test)
+2020-07-24 16:17:20,539 - testcase.common.loggerInfo - INFO - b'{"data":null,"error_code":"user_is_unauthorizedUser is unauthorized.","message":"user_is_unauthorizedUser is unauthorized."}'
+2020-07-24 16:17:20,539 - testcase.common.loggerInfo - INFO - 401
+2020-07-24 16:17:20,856 - testcase.common.loggerInfo - INFO - test_sendMessage_00005_expressionMessage (test_sendMessage.Test)
+2020-07-24 16:17:20,856 - testcase.common.loggerInfo - INFO - b'{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVhdGVfdGltZSI6MTU5NTU3ODY0MCwiaWQiOiIxODdiZjhiYi1jZDg2LTExZWEtODAzNC1jY2JiZmVkZjJhMWEifQ.1_GVT1aDcwcAsEbbzLim8WPMK1ZfEWoXiMFBPoX5ztY","p_token":"eVRWNUJ0TE83NVlKT3pHVkmI81cS+C98YkDEDahj7Gs=","user":{"id":322265,"uid":"0-322265","name":"test_sg_002","type":"seller","avatar":"","locale":"zh-Hant","shop_id":322266,"country":"SG","status":"normal"},"version":1}'
+2020-07-24 16:17:20,856 - testcase.common.loggerInfo - INFO - 200
+2020-07-24 16:17:21,153 - testcase.common.loggerInfo - INFO - test_sendMessage_00005_expressionMessage (test_sendMessage.Test)
+2020-07-24 16:17:21,153 - testcase.common.loggerInfo - INFO - b'{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVhdGVfdGltZSI6MTU5NTU3ODY0MSwiaWQiOiIxOGE5YzU0YS1jZDg2LTExZWEtODAzNC1jY2JiZmVkZjJhMWEifQ.IMsNwm-VbxtzRs_zMhl9ejHnxQeka_PKjtB7lrUwbuw","p_token":"VGhESGNtbml2aXFVSTJsNI27w9RyF8BfI7bUyyeEaDc=","user":{"id":322265,"uid":"0-322265","name":"test_sg_002","type":"seller","avatar":"","locale":"zh-Hant","shop_id":322266,"country":"SG","status":"normal"},"version":1}'
+2020-07-24 16:17:21,153 - testcase.common.loggerInfo - INFO - 200
+2020-07-24 16:17:21,369 - testcase.common.loggerInfo - INFO - test_sendMessage_00005_expressionMessage (test_sendMessage.Test)
+2020-07-24 16:17:21,369 - testcase.common.loggerInfo - INFO - b'{"data":null,"error_code":"user_is_unauthorizedUser is unauthorized.","message":"user_is_unauthorizedUser is unauthorized."}'
+2020-07-24 16:17:21,370 - testcase.common.loggerInfo - INFO - 401
+2020-07-24 16:17:21,678 - testcase.common.loggerInfo - INFO - test_sendMessage_00006_textMessage (test_sendMessage.Test)
+2020-07-24 16:17:21,679 - testcase.common.loggerInfo - INFO - b'{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVhdGVfdGltZSI6MTU5NTU3ODY0MSwiaWQiOiIxOGY5NjY5OS1jZDg2LTExZWEtODAzNC1jY2JiZmVkZjJhMWEifQ.4CdL-Lpr1Zie_DN7KJmB1sHtN9tv8_o9-W6mT84g77Q","p_token":"cU56dGFiZVV4Y3lYYXlQZLLwLEg2jpVC4mT8AHperG4=","user":{"id":322265,"uid":"0-322265","name":"test_sg_002","type":"seller","avatar":"","locale":"zh-Hant","shop_id":322266,"country":"SG","status":"normal"},"version":1}'
+2020-07-24 16:17:21,680 - testcase.common.loggerInfo - INFO - 200
+2020-07-24 16:17:22,040 - testcase.common.loggerInfo - INFO - test_sendMessage_00006_textMessage (test_sendMessage.Test)
+2020-07-24 16:17:22,041 - testcase.common.loggerInfo - INFO - b'{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVhdGVfdGltZSI6MTU5NTU3ODY0MiwiaWQiOiIxOTMwOTRjYy1jZDg2LTExZWEtODAzNC1jY2JiZmVkZjJhMWEifQ.EnohJYZU_PMcYKrh6TcA-9pCVPQ6RbjzkcyFLnLSMyA","p_token":"elhxM0J1QVl5VXRMSHB3S22DYuyX0hMgBhcdjU50mjc=","user":{"id":322265,"uid":"0-322265","name":"test_sg_002","type":"seller","avatar":"","locale":"zh-Hant","shop_id":322266,"country":"SG","status":"normal"},"version":1}'
+2020-07-24 16:17:22,041 - testcase.common.loggerInfo - INFO - 200
+2020-07-24 16:17:22,263 - testcase.common.loggerInfo - INFO - test_sendMessage_00006_textMessage (test_sendMessage.Test)
+2020-07-24 16:17:22,264 - testcase.common.loggerInfo - INFO - b'{"data":null,"error_code":"user_is_unauthorizedUser is unauthorized.","message":"user_is_unauthorizedUser is unauthorized."}'
+2020-07-24 16:17:22,264 - testcase.common.loggerInfo - INFO - 401
+2020-07-24 16:17:22,582 - testcase.common.loggerInfo - INFO - test_sendMessage_00007_goodsMessage (test_sendMessage.Test)
+2020-07-24 16:17:22,582 - testcase.common.loggerInfo - INFO - b'{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVhdGVfdGltZSI6MTU5NTU3ODY0MiwiaWQiOiIxOTgzODAzZS1jZDg2LTExZWEtODAzNC1jY2JiZmVkZjJhMWEifQ.dwEh_CMXeTsu9VPNR0_jAloIa2DOwbABCj40FersD6s","p_token":"OFdpdngxVXFKc1I2VldMYe2wFBNV6xVMKO7ugqB4o9k=","user":{"id":322265,"uid":"0-322265","name":"test_sg_002","type":"seller","avatar":"","locale":"zh-Hant","shop_id":322266,"country":"SG","status":"normal"},"version":1}'
+2020-07-24 16:17:22,582 - testcase.common.loggerInfo - INFO - 200
+2020-07-24 16:17:22,878 - testcase.common.loggerInfo - INFO - test_sendMessage_00007_goodsMessage (test_sendMessage.Test)
+2020-07-24 16:17:22,878 - testcase.common.loggerInfo - INFO - b'{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVhdGVfdGltZSI6MTU5NTU3ODY0MiwiaWQiOiIxOWIxMTRjMS1jZDg2LTExZWEtODAzNC1jY2JiZmVkZjJhMWEifQ.1YSXKA-aUzoU1s6W5kYgtUk9DZEeHYVS62IyesQ042U","p_token":"SUtGTUJ3dlQyMm93QWVyNKvJCXyKnMlRWEQp8SJoy5o=","user":{"id":322265,"uid":"0-322265","name":"test_sg_002","type":"seller","avatar":"","locale":"zh-Hant","shop_id":322266,"country":"SG","status":"normal"},"version":1}'
+2020-07-24 16:17:22,878 - testcase.common.loggerInfo - INFO - 200
+2020-07-24 16:17:23,100 - testcase.common.loggerInfo - INFO - test_sendMessage_00007_goodsMessage (test_sendMessage.Test)
+2020-07-24 16:17:23,100 - testcase.common.loggerInfo - INFO - b'{"data":null,"error_code":"user_is_unauthorizedUser is unauthorized.","message":"user_is_unauthorizedUser is unauthorized."}'
+2020-07-24 16:17:23,100 - testcase.common.loggerInfo - INFO - 401

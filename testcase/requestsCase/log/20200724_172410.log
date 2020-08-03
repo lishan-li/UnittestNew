@@ -1,0 +1,6 @@
+2020-07-24 17:24:11,093 - testcase.common.loggerInfo - INFO - test_loginIn_00001_login_user (test_login.TestLogin)
+2020-07-24 17:24:11,093 - testcase.common.loggerInfo - INFO - b'{"debug_message":"","message":"error_otp","err_message":""}'
+2020-07-24 17:24:11,094 - testcase.common.loggerInfo - INFO - 482
+2020-07-24 17:24:11,145 - testcase.common.loggerInfo - INFO - test_loginIn_00001_login_user (test_login.TestLogin)
+2020-07-24 17:24:11,146 - testcase.common.loggerInfo - INFO - b'{"errcode":2, "message": "token not found"}'
+2020-07-24 17:24:11,146 - testcase.common.loggerInfo - INFO - 403

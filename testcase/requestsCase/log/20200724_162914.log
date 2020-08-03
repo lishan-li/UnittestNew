@@ -1,0 +1,24 @@
+2020-07-24 16:29:15,106 - testcase.common.loggerInfo - INFO - test_sendMessage_00001_textMessage (test_sendMessage.Test)
+2020-07-24 16:29:15,106 - testcase.common.loggerInfo - INFO - b'{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVhdGVfdGltZSI6MTU5NTU3OTM1NSwiaWQiOiJjMjM0NmRhYS1jZDg3LTExZWEtODAzNC1jY2JiZmVkZjJhMWEifQ.XBdjejmaEbCzdTk9Ozf6fxOmspBOaN5NOZX4DwKyvzg","p_token":"VDdnNW1yQzlHd0ltdlVTU75zbSVSokS1iNU5htuZGp4=","user":{"id":322265,"uid":"0-322265","name":"test_sg_002","type":"seller","avatar":"","locale":"zh-Hant","shop_id":322266,"country":"SG","status":"normal"},"version":1}'
+2020-07-24 16:29:15,106 - testcase.common.loggerInfo - INFO - 200
+2020-07-24 16:29:15,324 - testcase.common.loggerInfo - INFO - test_sendMessage_00001_textMessage (test_sendMessage.Test)
+2020-07-24 16:29:15,324 - testcase.common.loggerInfo - INFO - b'{"data":null,"error_code":"user_is_unauthorizedUser is unauthorized.","message":"user_is_unauthorizedUser is unauthorized."}'
+2020-07-24 16:29:15,324 - testcase.common.loggerInfo - INFO - 401
+2020-07-24 16:29:15,623 - testcase.common.loggerInfo - INFO - test_sendMessage_00002_characterMessage (test_sendMessage.Test)
+2020-07-24 16:29:15,624 - testcase.common.loggerInfo - INFO - b'{"errcode":2, "message": "token not found"}'
+2020-07-24 16:29:15,624 - testcase.common.loggerInfo - INFO - 403
+2020-07-24 16:29:16,040 - testcase.common.loggerInfo - INFO - test_sendMessage_00003_expressionMessage (test_sendMessage.Test)
+2020-07-24 16:29:16,041 - testcase.common.loggerInfo - INFO - b'{"errcode":2, "message": "token not found"}'
+2020-07-24 16:29:16,041 - testcase.common.loggerInfo - INFO - 403
+2020-07-24 16:29:16,336 - testcase.common.loggerInfo - INFO - test_sendMessage_00004_imageMessage (test_sendMessage.Test)
+2020-07-24 16:29:16,336 - testcase.common.loggerInfo - INFO - b'{"errcode":2, "message": "token not found"}'
+2020-07-24 16:29:16,337 - testcase.common.loggerInfo - INFO - 403
+2020-07-24 16:29:16,721 - testcase.common.loggerInfo - INFO - test_sendMessage_00005_discountMessage (test_sendMessage.Test)
+2020-07-24 16:29:16,721 - testcase.common.loggerInfo - INFO - b'{"errcode":2, "message": "token not found"}'
+2020-07-24 16:29:16,722 - testcase.common.loggerInfo - INFO - 403
+2020-07-24 16:29:17,025 - testcase.common.loggerInfo - INFO - test_sendMessage_00006_goodsMessage (test_sendMessage.Test)
+2020-07-24 16:29:17,025 - testcase.common.loggerInfo - INFO - b'{"errcode":2, "message": "token not found"}'
+2020-07-24 16:29:17,025 - testcase.common.loggerInfo - INFO - 403
+2020-07-24 16:29:17,320 - testcase.common.loggerInfo - INFO - test_sendMessage_00007_imageNotExistMessage (test_sendMessage.Test)
+2020-07-24 16:29:17,321 - testcase.common.loggerInfo - INFO - b'{"errcode":2, "message": "token not found"}'
+2020-07-24 16:29:17,321 - testcase.common.loggerInfo - INFO - 403

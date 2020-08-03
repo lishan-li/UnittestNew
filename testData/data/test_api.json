@@ -1,0 +1,94 @@
+{
+    "textMessage": {
+        "request_id": "b101382f-3be9-45c0-9c10-8fbfb873b76f",
+        "to_id": 9030516,
+        "type": "text",
+        "content": {
+            "text": "test"
+        },
+        "chat_send_option": {
+            "force_send_cancel_order_warning": false,
+            "comply_cancel_order_warning": false
+        }
+    },
+    "expressionMessage":{
+        "request_id":"a393b254-b180-4002-aa2e-636de23ccb2a",
+        "to_id":9030516,
+        "type":"sticker",
+        "content":{
+            "sticker_id":"0029",
+            "sticker_package_id":"shrimp_sg_new"
+        },
+        "chat_send_option":{
+            "force_send_cancel_order_warning":false,
+            "comply_cancel_order_warning":false
+        }
+    },
+    "imageMessage":{
+        "request_id":"369fd436-36af-4913-83fa-f44f4e57cfe7",
+        "to_id":9030516,
+        "type":"image",
+        "content":{
+            "url":"https://cf.shopee.sg/file/98390c54c403dddd6fb4aeec2a223bfd"
+        },
+        "chat_send_option":{
+            "force_send_cancel_order_warning":false,
+            "comply_cancel_order_warning":false
+        }
+    },
+    "characterMessage":{
+        "request_id":"62c9a9c7-d3b2-4090-af20-b7aba3d84818",
+        "to_id":9030516,
+        "type":"text",
+        "content":{
+            "text":"%#$"
+        },
+        "chat_send_option":{
+            "force_send_cancel_order_warning":false,
+            "comply_cancel_order_warning":false
+        }
+    },
+    "imageNotExistMessage":{
+        "request_id":"62c9a9c7-d3b2-4090-af20-b7aba3d84819",
+        "to_id":9030516,
+        "type":"image",
+        "content":{
+            "url":"https://cf.shopee.sg/file/98390c54c403dddd6fb4aeec2a223bfd-test"
+        },
+        "chat_send_option":{
+            "force_send_cancel_order_warning":false,
+            "comply_cancel_order_warning":false
+        }
+    },
+  "discountMessage":{
+    "request_id":"5b10aad5-1875-4508-816f-674431d0eb89",
+    "to_id":9030516,
+    "type":"voucher",
+    "content":{
+        "voucher_id":1102264713,
+        "voucher_code":"TESTPCOIN",
+        "shop_id":7459434,
+        "source":"webchat"
+    },
+    "chat_send_option":{
+        "force_send_cancel_order_warning":false,
+        "comply_cancel_order_warning":false
+    }
+},
+
+  "goodsMessage":
+{
+    "request_id":"b8b770fa-d52b-4ea9-b6a7-b13d4243",
+    "to_id":9030516,
+    "type":"product",
+    "content":{
+        "product_id":3400023141,
+        "shop_id":7459434
+    },
+    "chat_send_option":{
+        "force_send_cancel_order_warning":false,
+        "comply_cancel_order_warning":false
+    }
+
+}
+}

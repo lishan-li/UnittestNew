@@ -1,0 +1,9 @@
+2020-07-27 21:42:00,033 - testcase.common.loggerInfo - INFO - test_sendMessage_00001_textMessage (test_sendMessage.Test)
+2020-07-27 21:42:00,034 - testcase.common.loggerInfo - INFO - b'{"username":"test_tsx_email","shopid":7459434,"phone":"000013667985593","sso":"7R28oJ3pqb3v8KHcFFssb4HBMsP0//Ed8JNiIvbyAVqlE7N762L05onRfzAj7W/F+LMpRWOpu+6qT4XAfWodgsBvEX6evElbKDa/GBs7V0GL1ViZ4McLTFEvY95PgqTkP4IXIwcQfbXFbZu3driBMg==","cs_token":"7R28oJ3pqb3v8KHcFFssb4HBMsP0//Ed8JNiIvbyAVqlE7N762L05onRfzAj7W/F+LMpRWOpu+6qT4XAfWodgsBvEX6evElbKDa/GBs7V0GL1ViZ4McLTFEvY95PgqTkP4IXIwcQfbXFbZu3driBMg==","portrait":"63d5e82582910455a67b2d69295e440d","id":9018157,"errcode":0,"token":"6cb7f47151e68e08d396b0f529125468","sub_account_token":null,"email":"shixin.tan1@shopee.com"}'
+2020-07-27 21:42:00,034 - testcase.common.loggerInfo - INFO - 200
+2020-07-27 21:42:00,424 - testcase.common.loggerInfo - INFO - test_sendMessage_00001_textMessage (test_sendMessage.Test)
+2020-07-27 21:42:00,425 - testcase.common.loggerInfo - INFO - b'{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVhdGVfdGltZSI6MTU5NTg1NzMyMCwiaWQiOiJmMjU0ZTFjYS1kMDBlLTExZWEtYjBiOS1iNDk2OTE1ZWZlNWUifQ.CRyaWy_omCuyIkxnSeOYTiMbUWA0614-S7PhSoV0fYA","p_token":"VU1YT1laOFc4T0hiTFoyT0P1FgxPiGmgVQeZPyQMByI=","user":{"id":9018157,"uid":"0-9018157","name":"test_tsx_email","type":"seller","avatar":"https://cf.shopee.sg/file/63d5e82582910455a67b2d69295e440d","locale":"en","shop_id":7459434,"country":"SG","status":"normal"},"version":4}'
+2020-07-27 21:42:00,425 - testcase.common.loggerInfo - INFO - 200
+2020-07-27 21:42:51,917 - testcase.common.loggerInfo - INFO - test_sendMessage_00001_textMessage (test_sendMessage.Test)
+2020-07-27 21:42:51,918 - testcase.common.loggerInfo - INFO - b'{"data":null,"error_code":"user_is_unauthorizedUser is unauthorized.","message":"user_is_unauthorizedUser is unauthorized."}'
+2020-07-27 21:42:51,919 - testcase.common.loggerInfo - INFO - 401

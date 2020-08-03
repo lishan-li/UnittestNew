@@ -1,0 +1,45 @@
+2020-07-28 10:56:46,064 - testcase.common.loggerInfo - INFO - test_sendMessage_00001_goodsMessage (test_sendMessage.Test)
+2020-07-28 10:56:46,064 - testcase.common.loggerInfo - INFO - b'{"username":"test_tsx_email","shopid":7459434,"phone":"000013667985593","sso":"Os/jwjaCQiIPskpczK2jKGZ1Ld7887HEqCw7UNFq/33fN1cQKEqyAgOb3fHEOa5VVPRnjwUwHjicgeKti4g/OQt9WSRL+W5qeFuz37ZL5Kq0/BB3wDyQXa7P7Ksb3qIZ2XQsnirI7ll3yMyU/HpjIg==","cs_token":"Os/jwjaCQiIPskpczK2jKGZ1Ld7887HEqCw7UNFq/33fN1cQKEqyAgOb3fHEOa5VVPRnjwUwHjicgeKti4g/OQt9WSRL+W5qeFuz37ZL5Kq0/BB3wDyQXa7P7Ksb3qIZ2XQsnirI7ll3yMyU/HpjIg==","portrait":"63d5e82582910455a67b2d69295e440d","id":9018157,"errcode":0,"token":"dd197892de706742b569392f9a26fd24","sub_account_token":null,"email":"shixin.tan1@shopee.com"}'
+2020-07-28 10:56:46,065 - testcase.common.loggerInfo - INFO - 200
+2020-07-28 10:56:46,168 - testcase.common.loggerInfo - INFO - test_sendMessage_00001_goodsMessage (test_sendMessage.Test)
+2020-07-28 10:56:46,168 - testcase.common.loggerInfo - INFO - b'{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVhdGVfdGltZSI6MTU5NTkwNTAwNiwiaWQiOiJmOTYwMWRiZi1kMDdkLTExZWEtYjBiOS1iNDk2OTE1ZWZlNWUifQ.g9h4KXDeLkqTZn9v2T7F56y1L5hAm6A2xFl0cKRDsJg","p_token":"VXl2SlJxNkl2SlZpckt0SfKANNyDkSyuK85EIlg1Ido=","user":{"id":9018157,"uid":"0-9018157","name":"test_tsx_email","type":"seller","avatar":"https://cf.shopee.sg/file/63d5e82582910455a67b2d69295e440d","locale":"en","shop_id":7459434,"country":"SG","status":"normal"},"version":4}'
+2020-07-28 10:56:46,168 - testcase.common.loggerInfo - INFO - 200
+2020-07-28 10:56:46,312 - testcase.common.loggerInfo - INFO - test_sendMessage_00001_goodsMessage (test_sendMessage.Test)
+2020-07-28 10:56:46,312 - testcase.common.loggerInfo - INFO - b'{"id":"2023233696550633473","request_id":"b8b770fa-d52b-4ea9-b6a7-b13d4243","to_id":9030516,"type":"product","content":{"product_id":3400023141,"shop_id":7459434,"product_ids":null},"conversation_id":"38732689394223988","created_timestamp":1595905006,"created_at":"2020-07-28T10:56:46+08:00","source_content":{},"source_type":"","message_option":0}'
+2020-07-28 10:56:46,313 - testcase.common.loggerInfo - INFO - 200
+2020-07-28 10:56:47,300 - testcase.common.loggerInfo - INFO - test_sendMessage_00002_imageNotExistMessage (test_sendMessage.Test)
+2020-07-28 10:56:47,300 - testcase.common.loggerInfo - INFO - b'{"debug_message":"","message":"error_otp","err_message":""}'
+2020-07-28 10:56:47,300 - testcase.common.loggerInfo - INFO - 482
+2020-07-28 10:56:47,353 - testcase.common.loggerInfo - INFO - test_sendMessage_00002_imageNotExistMessage (test_sendMessage.Test)
+2020-07-28 10:56:47,353 - testcase.common.loggerInfo - INFO - b'{"errcode":2, "message": "token not found"}'
+2020-07-28 10:56:47,353 - testcase.common.loggerInfo - INFO - 403
+2020-07-28 10:56:48,517 - testcase.common.loggerInfo - INFO - test_sendMessage_00003_imageMessage (test_sendMessage.Test)
+2020-07-28 10:56:48,517 - testcase.common.loggerInfo - INFO - b'{"debug_message":"","message":"error_otp","err_message":""}'
+2020-07-28 10:56:48,517 - testcase.common.loggerInfo - INFO - 482
+2020-07-28 10:56:48,733 - testcase.common.loggerInfo - INFO - test_sendMessage_00003_imageMessage (test_sendMessage.Test)
+2020-07-28 10:56:48,734 - testcase.common.loggerInfo - INFO - b'{"errcode":2, "message": "token not found"}'
+2020-07-28 10:56:48,734 - testcase.common.loggerInfo - INFO - 403
+2020-07-28 10:56:49,224 - testcase.common.loggerInfo - INFO - test_sendMessage_00004_discountMessage (test_sendMessage.Test)
+2020-07-28 10:56:49,224 - testcase.common.loggerInfo - INFO - b'{"debug_message":"","message":"error_otp","err_message":""}'
+2020-07-28 10:56:49,225 - testcase.common.loggerInfo - INFO - 482
+2020-07-28 10:56:49,325 - testcase.common.loggerInfo - INFO - test_sendMessage_00004_discountMessage (test_sendMessage.Test)
+2020-07-28 10:56:49,325 - testcase.common.loggerInfo - INFO - b'{"errcode":2, "message": "token not found"}'
+2020-07-28 10:56:49,325 - testcase.common.loggerInfo - INFO - 403
+2020-07-28 10:56:49,778 - testcase.common.loggerInfo - INFO - test_sendMessage_00005_textMessage (test_sendMessage.Test)
+2020-07-28 10:56:49,779 - testcase.common.loggerInfo - INFO - b'{"debug_message":"","message":"error_otp","err_message":""}'
+2020-07-28 10:56:49,779 - testcase.common.loggerInfo - INFO - 482
+2020-07-28 10:56:49,900 - testcase.common.loggerInfo - INFO - test_sendMessage_00005_textMessage (test_sendMessage.Test)
+2020-07-28 10:56:49,900 - testcase.common.loggerInfo - INFO - b'{"errcode":2, "message": "token not found"}'
+2020-07-28 10:56:49,900 - testcase.common.loggerInfo - INFO - 403
+2020-07-28 10:56:50,532 - testcase.common.loggerInfo - INFO - test_sendMessage_00006_expressionMessage (test_sendMessage.Test)
+2020-07-28 10:56:50,532 - testcase.common.loggerInfo - INFO - b'{"debug_message":"","message":"error_otp","err_message":""}'
+2020-07-28 10:56:50,532 - testcase.common.loggerInfo - INFO - 482
+2020-07-28 10:56:50,697 - testcase.common.loggerInfo - INFO - test_sendMessage_00006_expressionMessage (test_sendMessage.Test)
+2020-07-28 10:56:50,697 - testcase.common.loggerInfo - INFO - b'{"errcode":2, "message": "token not found"}'
+2020-07-28 10:56:50,697 - testcase.common.loggerInfo - INFO - 403
+2020-07-28 10:56:51,407 - testcase.common.loggerInfo - INFO - test_sendMessage_00007_characterMessage (test_sendMessage.Test)
+2020-07-28 10:56:51,408 - testcase.common.loggerInfo - INFO - b'{"debug_message":"","message":"error_otp","err_message":""}'
+2020-07-28 10:56:51,408 - testcase.common.loggerInfo - INFO - 482
+2020-07-28 10:56:51,515 - testcase.common.loggerInfo - INFO - test_sendMessage_00007_characterMessage (test_sendMessage.Test)
+2020-07-28 10:56:51,515 - testcase.common.loggerInfo - INFO - b'{"errcode":2, "message": "token not found"}'
+2020-07-28 10:56:51,516 - testcase.common.loggerInfo - INFO - 403

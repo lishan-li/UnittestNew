@@ -1,0 +1,27 @@
+2020-07-24 13:52:20,423 - testcase.common.loggerInfo - INFO - test_loginIn_00001_login_user (test_login.TestLogin)
+2020-07-24 13:52:20,424 - testcase.common.loggerInfo - INFO - b'{"debug_message":"","message":"error_otp","err_message":""}'
+2020-07-24 13:52:20,424 - testcase.common.loggerInfo - INFO - 482
+2020-07-24 13:52:20,474 - testcase.common.loggerInfo - INFO - test_loginIn_00001_login_user (test_login.TestLogin)
+2020-07-24 13:52:20,475 - testcase.common.loggerInfo - INFO - b'{"errcode":2, "message": "token not found"}'
+2020-07-24 13:52:20,475 - testcase.common.loggerInfo - INFO - 403
+2020-07-24 13:52:20,746 - testcase.common.loggerInfo - INFO - test_sendMessage_00001_discountMessage (test_sendMessage.Test)
+2020-07-24 13:52:20,746 - testcase.common.loggerInfo - INFO - b'{"errcode":2, "message": "token not found"}'
+2020-07-24 13:52:20,746 - testcase.common.loggerInfo - INFO - 403
+2020-07-24 13:52:21,016 - testcase.common.loggerInfo - INFO - test_sendMessage_00002_textMessage (test_sendMessage.Test)
+2020-07-24 13:52:21,016 - testcase.common.loggerInfo - INFO - b'{"errcode":2, "message": "token not found"}'
+2020-07-24 13:52:21,016 - testcase.common.loggerInfo - INFO - 403
+2020-07-24 13:52:21,324 - testcase.common.loggerInfo - INFO - test_sendMessage_00003_characterMessage (test_sendMessage.Test)
+2020-07-24 13:52:21,324 - testcase.common.loggerInfo - INFO - b'{"errcode":2, "message": "token not found"}'
+2020-07-24 13:52:21,325 - testcase.common.loggerInfo - INFO - 403
+2020-07-24 13:52:21,586 - testcase.common.loggerInfo - INFO - test_sendMessage_00004_expressionMessage (test_sendMessage.Test)
+2020-07-24 13:52:21,587 - testcase.common.loggerInfo - INFO - b'{"errcode":2, "message": "token not found"}'
+2020-07-24 13:52:21,587 - testcase.common.loggerInfo - INFO - 403
+2020-07-24 13:52:21,868 - testcase.common.loggerInfo - INFO - test_sendMessage_00005_imageMessage (test_sendMessage.Test)
+2020-07-24 13:52:21,869 - testcase.common.loggerInfo - INFO - b'{"errcode":2, "message": "token not found"}'
+2020-07-24 13:52:21,869 - testcase.common.loggerInfo - INFO - 403
+2020-07-24 13:52:22,207 - testcase.common.loggerInfo - INFO - test_sendMessage_00006_goodsMessage (test_sendMessage.Test)
+2020-07-24 13:52:22,207 - testcase.common.loggerInfo - INFO - b'{"errcode":2, "message": "token not found"}'
+2020-07-24 13:52:22,207 - testcase.common.loggerInfo - INFO - 403
+2020-07-24 13:52:22,519 - testcase.common.loggerInfo - INFO - test_sendMessage_00007_imageNotExistMessage (test_sendMessage.Test)
+2020-07-24 13:52:22,519 - testcase.common.loggerInfo - INFO - b'{"errcode":2, "message": "token not found"}'
+2020-07-24 13:52:22,519 - testcase.common.loggerInfo - INFO - 403

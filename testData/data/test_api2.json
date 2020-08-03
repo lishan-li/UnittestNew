@@ -1,0 +1,16 @@
+{
+    "textMessage": {
+        "request_id": "b101382f-3be9-45c0-9c10-8fbfb873b76f",
+        "to_id": 9030516,
+        "type": "text",
+        "content": {
+            "text": "test"
+        },
+        "chat_send_option": {
+            "force_send_cancel_order_warning": false,
+            "comply_cancel_order_warning": false
+        }
+    }
+}
+
+

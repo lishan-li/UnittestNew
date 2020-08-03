@@ -1,0 +1,42 @@
+2020-07-24 14:34:38,486 - testcase.common.loggerInfo - INFO - test_sendMessage_00001_expressionMessage (test_sendMessage.Test)
+2020-07-24 14:34:38,486 - testcase.common.loggerInfo - INFO - b'{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVhdGVfdGltZSI6MTU5NTU3MjQ3OCwiaWQiOiJiZjZkMDc3YS1jZDc3LTExZWEtODAzNC1jY2JiZmVkZjJhMWEifQ.9m59JM4muH39T0nthJeK-r7z4XN9ds_HsjbvKZ8Iod0","p_token":"RVBrQlNmVnBaN0M4VExFNxPs/KYGCOV9u8Al5s5LM9U=","user":{"id":322265,"uid":"0-322265","name":"test_sg_002","type":"seller","avatar":"","locale":"zh-Hant","shop_id":322266,"country":"SG","status":"normal"},"version":1}'
+2020-07-24 14:34:38,486 - testcase.common.loggerInfo - INFO - 200
+2020-07-24 14:34:38,720 - testcase.common.loggerInfo - INFO - test_sendMessage_00001_expressionMessage (test_sendMessage.Test)
+2020-07-24 14:34:38,720 - testcase.common.loggerInfo - INFO - b'{"data":null,"error_code":"user_is_unauthorizedUser is unauthorized.","message":"user_is_unauthorizedUser is unauthorized."}'
+2020-07-24 14:34:38,720 - testcase.common.loggerInfo - INFO - 401
+2020-07-24 14:34:39,022 - testcase.common.loggerInfo - INFO - test_sendMessage_00002_characterMessage (test_sendMessage.Test)
+2020-07-24 14:34:39,022 - testcase.common.loggerInfo - INFO - b'{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVhdGVfdGltZSI6MTU5NTU3MjQ3OSwiaWQiOiJiZmJmZjJhYS1jZDc3LTExZWEtODAzNC1jY2JiZmVkZjJhMWEifQ.XqjmOgQxLDcCAg0kx9Qh3tm-SAWXOiq4o0qoIl2aiXs","p_token":"Yk5wVTFoQkJXUWd4Sm01bqouPbEgL4DfxzCdv9zLTw8=","user":{"id":322265,"uid":"0-322265","name":"test_sg_002","type":"seller","avatar":"","locale":"zh-Hant","shop_id":322266,"country":"SG","status":"normal"},"version":1}'
+2020-07-24 14:34:39,022 - testcase.common.loggerInfo - INFO - 200
+2020-07-24 14:34:39,246 - testcase.common.loggerInfo - INFO - test_sendMessage_00002_characterMessage (test_sendMessage.Test)
+2020-07-24 14:34:39,246 - testcase.common.loggerInfo - INFO - b'{"data":null,"error_code":"user_is_unauthorizedUser is unauthorized.","message":"user_is_unauthorizedUser is unauthorized."}'
+2020-07-24 14:34:39,246 - testcase.common.loggerInfo - INFO - 401
+2020-07-24 14:34:39,555 - testcase.common.loggerInfo - INFO - test_sendMessage_00003_discountMessage (test_sendMessage.Test)
+2020-07-24 14:34:39,555 - testcase.common.loggerInfo - INFO - b'{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVhdGVfdGltZSI6MTU5NTU3MjQ3OSwiaWQiOiJjMDEwOTJiYS1jZDc3LTExZWEtODAzNC1jY2JiZmVkZjJhMWEifQ.sQym4OyJjlrgE36r1uf3IZGu1xli7nsiGue2ntaOWEY","p_token":"YTJIcUdiT1c5Uk42TUNjZlPFAR6PZnXfoJk/pZk2iAo=","user":{"id":322265,"uid":"0-322265","name":"test_sg_002","type":"seller","avatar":"","locale":"zh-Hant","shop_id":322266,"country":"SG","status":"normal"},"version":1}'
+2020-07-24 14:34:39,555 - testcase.common.loggerInfo - INFO - 200
+2020-07-24 14:34:39,778 - testcase.common.loggerInfo - INFO - test_sendMessage_00003_discountMessage (test_sendMessage.Test)
+2020-07-24 14:34:39,778 - testcase.common.loggerInfo - INFO - b'{"data":null,"error_code":"user_is_unauthorizedUser is unauthorized.","message":"user_is_unauthorizedUser is unauthorized."}'
+2020-07-24 14:34:39,778 - testcase.common.loggerInfo - INFO - 401
+2020-07-24 14:34:40,098 - testcase.common.loggerInfo - INFO - test_sendMessage_00004_imageMessage (test_sendMessage.Test)
+2020-07-24 14:34:40,098 - testcase.common.loggerInfo - INFO - b'{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVhdGVfdGltZSI6MTU5NTU3MjQ4MCwiaWQiOiJjMDYyZjMxNy1jZDc3LTExZWEtODAzNC1jY2JiZmVkZjJhMWEifQ.RF8KCVWrXKO5A59VPs33xUgC4ypu00yJ5QsdqujiNDo","p_token":"UkpJY0E2R2dVaGhqT2F4N3Qg2b5eNUKWGrfwAFcZIj8=","user":{"id":322265,"uid":"0-322265","name":"test_sg_002","type":"seller","avatar":"","locale":"zh-Hant","shop_id":322266,"country":"SG","status":"normal"},"version":1}'
+2020-07-24 14:34:40,098 - testcase.common.loggerInfo - INFO - 200
+2020-07-24 14:34:40,314 - testcase.common.loggerInfo - INFO - test_sendMessage_00004_imageMessage (test_sendMessage.Test)
+2020-07-24 14:34:40,314 - testcase.common.loggerInfo - INFO - b'{"data":null,"error_code":"user_is_unauthorizedUser is unauthorized.","message":"user_is_unauthorizedUser is unauthorized."}'
+2020-07-24 14:34:40,314 - testcase.common.loggerInfo - INFO - 401
+2020-07-24 14:34:40,635 - testcase.common.loggerInfo - INFO - test_sendMessage_00005_goodsMessage (test_sendMessage.Test)
+2020-07-24 14:34:40,635 - testcase.common.loggerInfo - INFO - b'{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVhdGVfdGltZSI6MTU5NTU3MjQ4MCwiaWQiOiJjMGI1NDlmOS1jZDc3LTExZWEtODAzNC1jY2JiZmVkZjJhMWEifQ.ffYbQydkxyep8lVaE6ihpl_RPebwUFdfj2KuSCEXdg0","p_token":"SE15NWdLOXR5VnBpSWVkNpk7ejc2L/mUMKwHh87+wU0=","user":{"id":322265,"uid":"0-322265","name":"test_sg_002","type":"seller","avatar":"","locale":"zh-Hant","shop_id":322266,"country":"SG","status":"normal"},"version":1}'
+2020-07-24 14:34:40,635 - testcase.common.loggerInfo - INFO - 200
+2020-07-24 14:34:40,890 - testcase.common.loggerInfo - INFO - test_sendMessage_00005_goodsMessage (test_sendMessage.Test)
+2020-07-24 14:34:40,891 - testcase.common.loggerInfo - INFO - b'{"data":null,"error_code":"user_is_unauthorizedUser is unauthorized.","message":"user_is_unauthorizedUser is unauthorized."}'
+2020-07-24 14:34:40,891 - testcase.common.loggerInfo - INFO - 401
+2020-07-24 14:34:41,405 - testcase.common.loggerInfo - INFO - test_sendMessage_00006_textMessage (test_sendMessage.Test)
+2020-07-24 14:34:41,405 - testcase.common.loggerInfo - INFO - b'{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVhdGVfdGltZSI6MTU5NTU3MjQ4MSwiaWQiOiJjMTJhZGZkYi1jZDc3LTExZWEtODAzNC1jY2JiZmVkZjJhMWEifQ.uwfp0o5K-S-ThZVd-rv-nQe1zB6NoGNZIMb9ZtbafL8","p_token":"SEM5d3hGVzNoODRnQ3dEbojZ8Hi7HcnlLln/BoQHsBc=","user":{"id":322265,"uid":"0-322265","name":"test_sg_002","type":"seller","avatar":"","locale":"zh-Hant","shop_id":322266,"country":"SG","status":"normal"},"version":1}'
+2020-07-24 14:34:41,405 - testcase.common.loggerInfo - INFO - 200
+2020-07-24 14:34:41,720 - testcase.common.loggerInfo - INFO - test_sendMessage_00006_textMessage (test_sendMessage.Test)
+2020-07-24 14:34:41,721 - testcase.common.loggerInfo - INFO - b'{"data":null,"error_code":"user_is_unauthorizedUser is unauthorized.","message":"user_is_unauthorizedUser is unauthorized."}'
+2020-07-24 14:34:41,721 - testcase.common.loggerInfo - INFO - 401
+2020-07-24 14:34:42,025 - testcase.common.loggerInfo - INFO - test_sendMessage_00007_imageNotExistMessage (test_sendMessage.Test)
+2020-07-24 14:34:42,025 - testcase.common.loggerInfo - INFO - b'{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVhdGVfdGltZSI6MTU5NTU3MjQ4MiwiaWQiOiJjMTg5NmNiMy1jZDc3LTExZWEtODAzNC1jY2JiZmVkZjJhMWEifQ.P1wCREn8IgofX3lDH2H8B19WYh2aMHSdbNGOEel_atk","p_token":"UnZTblJkV0VnZkZTeXhkQ2Dc2K4BRRlJ037lb03rWQk=","user":{"id":322265,"uid":"0-322265","name":"test_sg_002","type":"seller","avatar":"","locale":"zh-Hant","shop_id":322266,"country":"SG","status":"normal"},"version":1}'
+2020-07-24 14:34:42,025 - testcase.common.loggerInfo - INFO - 200
+2020-07-24 14:34:42,272 - testcase.common.loggerInfo - INFO - test_sendMessage_00007_imageNotExistMessage (test_sendMessage.Test)
+2020-07-24 14:34:42,272 - testcase.common.loggerInfo - INFO - b'{"data":null,"error_code":"user_is_unauthorizedUser is unauthorized.","message":"user_is_unauthorizedUser is unauthorized."}'
+2020-07-24 14:34:42,272 - testcase.common.loggerInfo - INFO - 401

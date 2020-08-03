@@ -1,0 +1,8 @@
+2020-07-24 14:01:45,539 - testcase.common.loggerInfo - INFO - test_loginIn_00001_login_user (test_login.TestLogin)
+2020-07-24 14:01:45,820 - testcase.common.loggerInfo - INFO - test_sendMessage_00001_discountMessage (test_sendMessage.Test)
+2020-07-24 14:01:46,124 - testcase.common.loggerInfo - INFO - test_sendMessage_00002_characterMessage (test_sendMessage.Test)
+2020-07-24 14:01:46,444 - testcase.common.loggerInfo - INFO - test_sendMessage_00003_expressionMessage (test_sendMessage.Test)
+2020-07-24 14:01:46,726 - testcase.common.loggerInfo - INFO - test_sendMessage_00004_textMessage (test_sendMessage.Test)
+2020-07-24 14:01:47,004 - testcase.common.loggerInfo - INFO - test_sendMessage_00005_imageMessage (test_sendMessage.Test)
+2020-07-24 14:01:47,328 - testcase.common.loggerInfo - INFO - test_sendMessage_00006_imageNotExistMessage (test_sendMessage.Test)
+2020-07-24 14:01:47,675 - testcase.common.loggerInfo - INFO - test_sendMessage_00007_goodsMessage (test_sendMessage.Test)

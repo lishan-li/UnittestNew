@@ -1,0 +1,27 @@
+2020-07-24 13:11:04,993 - testcase.common.loggerInfo - INFO - test_loginIn_00001_login_user (test_login.TestLogin)
+2020-07-24 13:11:04,993 - testcase.common.loggerInfo - INFO - b'{"username":"tsx_staging_sg1","shopid":439512,"phone":"00015623321","sso":"DRkHAbLNlnR1uJm45vl2hvrgLOaspdfaHn1jagQefOTR2a3F0Nq5b7k2gD2q9HpiSJYOgp4/Sat0o9c+2NPmJOf4/nX+AtSLtX6tVLjbJnEXqJ6x2Db2y7vJ9rbABNPDHxgP02UNT1+Y35DSH5v6xg==","cs_token":"DRkHAbLNlnR1uJm45vl2hvrgLOaspdfaHn1jagQefOTR2a3F0Nq5b7k2gD2q9HpiSJYOgp4/Sat0o9c+2NPmJOf4/nX+AtSLtX6tVLjbJnEXqJ6x2Db2y7vJ9rbABNPDHxgP02UNT1+Y35DSH5v6xg==","portrait":"5539e4e9c60c28b4ead63830a092ef04","id":439511,"errcode":0,"token":"16d2e5c274ca001a763bf52fe22e55f3","sub_account_token":null,"email":"chatdistrmy1@shopee.com"}'
+2020-07-24 13:11:04,993 - testcase.common.loggerInfo - INFO - 200
+2020-07-24 13:11:05,205 - testcase.common.loggerInfo - INFO - test_loginIn_00001_login_user (test_login.TestLogin)
+2020-07-24 13:11:05,206 - testcase.common.loggerInfo - INFO - b'{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVhdGVfdGltZSI6MTU5NTU2NzQ2NSwiaWQiOiIxMzMwOGQ0OS1jZDZjLTExZWEtODAzNC1jY2JiZmVkZjJhMWEifQ.qJ9ZPPpYSQXt1rI12vl-bG-F8iW17xyT7T3cMotCSm0","p_token":"aU9adGFXVTZwTFRNUWN3Rupx1wQqESd+uTr9pB8X7mE=","user":{"id":439511,"uid":"0-439511","name":"tsx_staging_sg1","type":"seller","avatar":"https://cf.shopee.sg/file/5539e4e9c60c28b4ead63830a092ef04","locale":"en","shop_id":439512,"country":"SG","status":"normal"},"version":1}'
+2020-07-24 13:11:05,206 - testcase.common.loggerInfo - INFO - 200
+2020-07-24 13:11:05,523 - testcase.common.loggerInfo - INFO - test_sendMessage_00001_discountMessage (test_sendMessage.Test)
+2020-07-24 13:11:05,524 - testcase.common.loggerInfo - INFO - b'{"errcode":2, "message": "token not found"}'
+2020-07-24 13:11:05,524 - testcase.common.loggerInfo - INFO - 403
+2020-07-24 13:11:05,812 - testcase.common.loggerInfo - INFO - test_sendMessage_00002_goodsMessage (test_sendMessage.Test)
+2020-07-24 13:11:05,812 - testcase.common.loggerInfo - INFO - b'{"errcode":2, "message": "token not found"}'
+2020-07-24 13:11:05,812 - testcase.common.loggerInfo - INFO - 403
+2020-07-24 13:11:06,119 - testcase.common.loggerInfo - INFO - test_sendMessage_00003_expressionMessage (test_sendMessage.Test)
+2020-07-24 13:11:06,120 - testcase.common.loggerInfo - INFO - b'{"errcode":2, "message": "token not found"}'
+2020-07-24 13:11:06,120 - testcase.common.loggerInfo - INFO - 403
+2020-07-24 13:11:06,404 - testcase.common.loggerInfo - INFO - test_sendMessage_00004_imageNotExistMessage (test_sendMessage.Test)
+2020-07-24 13:11:06,404 - testcase.common.loggerInfo - INFO - b'{"errcode":2, "message": "token not found"}'
+2020-07-24 13:11:06,404 - testcase.common.loggerInfo - INFO - 403
+2020-07-24 13:11:06,717 - testcase.common.loggerInfo - INFO - test_sendMessage_00005_imageMessage (test_sendMessage.Test)
+2020-07-24 13:11:06,717 - testcase.common.loggerInfo - INFO - b'{"errcode":2, "message": "token not found"}'
+2020-07-24 13:11:06,717 - testcase.common.loggerInfo - INFO - 403
+2020-07-24 13:11:07,062 - testcase.common.loggerInfo - INFO - test_sendMessage_00006_characterMessage (test_sendMessage.Test)
+2020-07-24 13:11:07,063 - testcase.common.loggerInfo - INFO - b'{"errcode":2, "message": "token not found"}'
+2020-07-24 13:11:07,063 - testcase.common.loggerInfo - INFO - 403
+2020-07-24 13:11:07,349 - testcase.common.loggerInfo - INFO - test_sendMessage_00007_textMessage (test_sendMessage.Test)
+2020-07-24 13:11:07,349 - testcase.common.loggerInfo - INFO - b'{"errcode":2, "message": "token not found"}'
+2020-07-24 13:11:07,349 - testcase.common.loggerInfo - INFO - 403

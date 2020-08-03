@@ -1,0 +1,3 @@
+2020-07-24 14:15:41,751 - testcase.common.loggerInfo - INFO - test
+2020-07-24 14:15:41,751 - testcase.common.loggerInfo - INFO - b'{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVhdGVfdGltZSI6MTU5NTU3MTM0MSwiaWQiOiIxOWUyOTg1NC1jZDc1LTExZWEtODAzNC1jY2JiZmVkZjJhMWEifQ.t4opd-_8qQ_F0Rg_NsIiOOtDZJFdslEVl0sqxIX_css","p_token":"eURaSU16emJ1M2l2eVBiUNDpx5y6Ul7FdW6aYq4mp3k=","user":{"id":439511,"uid":"0-439511","name":"tsx_staging_sg1","type":"seller","avatar":"https://cf.shopee.sg/file/5539e4e9c60c28b4ead63830a092ef04","locale":"en","shop_id":439512,"country":"SG","status":"normal"},"version":1}'
+2020-07-24 14:15:41,751 - testcase.common.loggerInfo - INFO - 200

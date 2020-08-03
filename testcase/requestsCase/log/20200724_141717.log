@@ -1,0 +1,3 @@
+2020-07-24 14:17:17,722 - testcase.common.loggerInfo - INFO - test
+2020-07-24 14:17:17,722 - testcase.common.loggerInfo - INFO - b'{"errcode":2, "message": "token not found"}'
+2020-07-24 14:17:17,723 - testcase.common.loggerInfo - INFO - 403

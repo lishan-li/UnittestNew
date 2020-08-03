@@ -1,0 +1,21 @@
+2020-07-24 16:37:39,057 - testcase.common.loggerInfo - INFO - test_sendMessage_00001_goodsMessage (test_sendMessage.Test)
+2020-07-24 16:37:39,057 - testcase.common.loggerInfo - INFO - b'{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVhdGVfdGltZSI6MTU5NTU3OTg1OSwiaWQiOiJlZTk2NDUwMy1jZDg4LTExZWEtODAzNC1jY2JiZmVkZjJhMWEifQ.tDfDB8RCEkG0VCKPTas2MHqdDysnESvJV67rYMXfMUI","p_token":"Nm5oNldtajdQU3lwQTJhdx/P6XVpy2Wj6+Z9lZ36rw0=","user":{"id":322265,"uid":"0-322265","name":"test_sg_002","type":"seller","avatar":"","locale":"zh-Hant","shop_id":322266,"country":"SG","status":"normal"},"version":1}'
+2020-07-24 16:37:39,057 - testcase.common.loggerInfo - INFO - 200
+2020-07-24 16:37:44,356 - testcase.common.loggerInfo - INFO - test_sendMessage_00001_goodsMessage (test_sendMessage.Test)
+2020-07-24 16:37:44,356 - testcase.common.loggerInfo - INFO - b'{"message":"Internal Server Error"}'
+2020-07-24 16:37:44,356 - testcase.common.loggerInfo - INFO - 500
+2020-07-24 16:37:44,666 - testcase.common.loggerInfo - INFO - test_sendMessage_00002_characterMessage (test_sendMessage.Test)
+2020-07-24 16:37:44,666 - testcase.common.loggerInfo - INFO - b'{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVhdGVfdGltZSI6MTU5NTU3OTg2NCwiaWQiOiJmMWVlNTE3ZC1jZDg4LTExZWEtODAzNC1jY2JiZmVkZjJhMWEifQ.11cHupePKSzZeelvcmOP5SFEQm6qLb-MvgETPrvLPBM","p_token":"RUNuVU9oTjRYeXFzMzVxeszKQMfNTOYb9kBzEvSDDi0=","user":{"id":322265,"uid":"0-322265","name":"test_sg_002","type":"seller","avatar":"","locale":"zh-Hant","shop_id":322266,"country":"SG","status":"normal"},"version":1}'
+2020-07-24 16:37:44,666 - testcase.common.loggerInfo - INFO - 200
+2020-07-24 16:37:49,930 - testcase.common.loggerInfo - INFO - test_sendMessage_00002_characterMessage (test_sendMessage.Test)
+2020-07-24 16:37:49,931 - testcase.common.loggerInfo - INFO - b'{"message":"Internal Server Error"}'
+2020-07-24 16:37:49,931 - testcase.common.loggerInfo - INFO - 500
+2020-07-24 16:37:50,255 - testcase.common.loggerInfo - INFO - test_sendMessage_00003_expressionMessage (test_sendMessage.Test)
+2020-07-24 16:37:50,256 - testcase.common.loggerInfo - INFO - b'{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVhdGVfdGltZSI6MTU5NTU3OTg3MCwiaWQiOiJmNTQzNTI5NC1jZDg4LTExZWEtODAzNC1jY2JiZmVkZjJhMWEifQ.fhdnKKinW-TkR6g5oy91JpvlviepWbxHmAuvQX2ZuHg","p_token":"bThiZ0NlMlFCV2hpWVRhbxEIhJLt8jsHH+oQZZyfZe4=","user":{"id":322265,"uid":"0-322265","name":"test_sg_002","type":"seller","avatar":"","locale":"zh-Hant","shop_id":322266,"country":"SG","status":"normal"},"version":1}'
+2020-07-24 16:37:50,256 - testcase.common.loggerInfo - INFO - 200
+2020-07-24 16:37:55,506 - testcase.common.loggerInfo - INFO - test_sendMessage_00003_expressionMessage (test_sendMessage.Test)
+2020-07-24 16:37:55,506 - testcase.common.loggerInfo - INFO - b'{"message":"Internal Server Error"}'
+2020-07-24 16:37:55,506 - testcase.common.loggerInfo - INFO - 500
+2020-07-24 16:37:55,876 - testcase.common.loggerInfo - INFO - test_sendMessage_00004_textMessage (test_sendMessage.Test)
+2020-07-24 16:37:55,876 - testcase.common.loggerInfo - INFO - b'{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVhdGVfdGltZSI6MTU5NTU3OTg3NSwiaWQiOiJmODljYTJmNC1jZDg4LTExZWEtODAzNC1jY2JiZmVkZjJhMWEifQ.seSbMvjjzD2bBHYUrdz7AAQ1Xb0zr0Jizp0lz4QC_fY","p_token":"Snhud3h6WmdaOFBXVHdiZZH6gV7nZ3m4QZW/NYFS6qk=","user":{"id":322265,"uid":"0-322265","name":"test_sg_002","type":"seller","avatar":"","locale":"zh-Hant","shop_id":322266,"country":"SG","status":"normal"},"version":1}'
+2020-07-24 16:37:55,876 - testcase.common.loggerInfo - INFO - 200

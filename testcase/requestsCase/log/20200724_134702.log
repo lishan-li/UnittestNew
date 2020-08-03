@@ -1,0 +1,39 @@
+2020-07-24 13:47:03,207 - testcase.common.loggerInfo - INFO - test_loginIn_00001_login_user (test_login.TestLogin)
+2020-07-24 13:47:03,207 - testcase.common.loggerInfo - INFO - b'{"username":"tsx_staging_sg1","shopid":439512,"phone":"00015623321","sso":"0TKQDr4CtztfdjOfogDkx/kf2SpKUHli0EHVEfpIStTB/BHe9dQQekY3uvXE9NSL1rX4SnVvNB45Lwb0OlVsWYABf0RH8rsEV+B6JT4+9bP66yPHFOZMC17IY34MvBuzL1BL0fHFkv8BWaUQR8z/Tw==","cs_token":"0TKQDr4CtztfdjOfogDkx/kf2SpKUHli0EHVEfpIStTB/BHe9dQQekY3uvXE9NSL1rX4SnVvNB45Lwb0OlVsWYABf0RH8rsEV+B6JT4+9bP66yPHFOZMC17IY34MvBuzL1BL0fHFkv8BWaUQR8z/Tw==","portrait":"5539e4e9c60c28b4ead63830a092ef04","id":439511,"errcode":0,"token":"25549ec91890f9faa6a2031be80bb4a1","sub_account_token":null,"email":"chatdistrmy1@shopee.com"}'
+2020-07-24 13:47:03,207 - testcase.common.loggerInfo - INFO - 200
+2020-07-24 13:47:03,330 - testcase.common.loggerInfo - INFO - test_loginIn_00001_login_user (test_login.TestLogin)
+2020-07-24 13:47:03,331 - testcase.common.loggerInfo - INFO - b'{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVhdGVfdGltZSI6MTU5NTU2OTYyMywiaWQiOiIxOTllZTU3Yi1jZDcxLTExZWEtODAzNC1jY2JiZmVkZjJhMWEifQ.pFcQOrCIjJ-guOS79IqjRV07WVrzIRmJGKIZNe3LSHw","p_token":"MmxIV29EOXc0N3dTekVyROazW1nRaB8uR3vxuJoDeOc=","user":{"id":439511,"uid":"0-439511","name":"tsx_staging_sg1","type":"seller","avatar":"https://cf.shopee.sg/file/5539e4e9c60c28b4ead63830a092ef04","locale":"en","shop_id":439512,"country":"SG","status":"normal"},"version":1}'
+2020-07-24 13:47:03,331 - testcase.common.loggerInfo - INFO - 200
+2020-07-24 13:47:03,666 - testcase.common.loggerInfo - INFO - test_sendMessage_00001_textMessage (test_sendMessage.Test)
+2020-07-24 13:47:03,667 - testcase.common.loggerInfo - INFO - b'{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVhdGVfdGltZSI6MTU5NTU2OTYyMywiaWQiOiIxOWQxOGJjNS1jZDcxLTExZWEtODAzNC1jY2JiZmVkZjJhMWEifQ.Q2zt21D9ToPr39_OnzJG2mODUWeujIoMxhZ0dnW5DsA","p_token":"Z2hPanFSUUhaRG9yRjdKZEq8Tra2PRXCYH7ugnSM7eY=","user":{"id":439511,"uid":"0-439511","name":"tsx_staging_sg1","type":"seller","avatar":"https://cf.shopee.sg/file/5539e4e9c60c28b4ead63830a092ef04","locale":"en","shop_id":439512,"country":"SG","status":"normal"},"version":1}'
+2020-07-24 13:47:03,667 - testcase.common.loggerInfo - INFO - 200
+2020-07-24 13:47:03,892 - testcase.common.loggerInfo - INFO - test_sendMessage_00001_textMessage (test_sendMessage.Test)
+2020-07-24 13:47:03,892 - testcase.common.loggerInfo - INFO - b'{"data":null,"error_code":"user_is_unauthorizedUser is unauthorized.","message":"user_is_unauthorizedUser is unauthorized."}'
+2020-07-24 13:47:03,892 - testcase.common.loggerInfo - INFO - 401
+2020-07-24 13:47:04,245 - testcase.common.loggerInfo - INFO - test_sendMessage_00002_discountMessage (test_sendMessage.Test)
+2020-07-24 13:47:04,245 - testcase.common.loggerInfo - INFO - b'{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVhdGVfdGltZSI6MTU5NTU2OTYyNCwiaWQiOiIxYTI0NzMzNC1jZDcxLTExZWEtODAzNC1jY2JiZmVkZjJhMWEifQ.Fkcw4r9Q7AMGoBhwufqKMfMV6heu18k7flDS6CDIemg","p_token":"c3hoTEFHakVHTjh2OHhiRgWlXZdp4wr1n9KhTlbxmiI=","user":{"id":439511,"uid":"0-439511","name":"tsx_staging_sg1","type":"seller","avatar":"https://cf.shopee.sg/file/5539e4e9c60c28b4ead63830a092ef04","locale":"en","shop_id":439512,"country":"SG","status":"normal"},"version":1}'
+2020-07-24 13:47:04,245 - testcase.common.loggerInfo - INFO - 200
+2020-07-24 13:47:04,604 - testcase.common.loggerInfo - INFO - test_sendMessage_00002_discountMessage (test_sendMessage.Test)
+2020-07-24 13:47:04,605 - testcase.common.loggerInfo - INFO - b'{"data":null,"error_code":"user_is_unauthorizedUser is unauthorized.","message":"user_is_unauthorizedUser is unauthorized."}'
+2020-07-24 13:47:04,605 - testcase.common.loggerInfo - INFO - 401
+2020-07-24 13:47:05,087 - testcase.common.loggerInfo - INFO - test_sendMessage_00003_imageMessage (test_sendMessage.Test)
+2020-07-24 13:47:05,087 - testcase.common.loggerInfo - INFO - b'{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVhdGVfdGltZSI6MTU5NTU2OTYyNSwiaWQiOiIxYWFhZWMzOC1jZDcxLTExZWEtODAzNC1jY2JiZmVkZjJhMWEifQ.A2gdRwh4QbHNV54LS_bTLHMjuUsRrxsp70GwMMqUA2k","p_token":"UGprdkh4TkZTQ0ZPY3ZZTFhBTConsi2lYIP+5X9yiKg=","user":{"id":439511,"uid":"0-439511","name":"tsx_staging_sg1","type":"seller","avatar":"https://cf.shopee.sg/file/5539e4e9c60c28b4ead63830a092ef04","locale":"en","shop_id":439512,"country":"SG","status":"normal"},"version":1}'
+2020-07-24 13:47:05,087 - testcase.common.loggerInfo - INFO - 200
+2020-07-24 13:47:05,311 - testcase.common.loggerInfo - INFO - test_sendMessage_00003_imageMessage (test_sendMessage.Test)
+2020-07-24 13:47:05,311 - testcase.common.loggerInfo - INFO - b'{"data":null,"error_code":"user_is_unauthorizedUser is unauthorized.","message":"user_is_unauthorizedUser is unauthorized."}'
+2020-07-24 13:47:05,311 - testcase.common.loggerInfo - INFO - 401
+2020-07-24 13:47:05,728 - testcase.common.loggerInfo - INFO - test_sendMessage_00004_expressionMessage (test_sendMessage.Test)
+2020-07-24 13:47:05,729 - testcase.common.loggerInfo - INFO - b'{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVhdGVfdGltZSI6MTU5NTU2OTYyNSwiaWQiOiIxYjAwZDgzMy1jZDcxLTExZWEtODAzNC1jY2JiZmVkZjJhMWEifQ.3S4mnVWxC540-CiHjJFZco7Gn3gw6OX_Bqxyr8y5-L4","p_token":"OE1ma0tDR0NDNTlWMzR4WkJamDcFSrwhXbKQ4L0Dz7M=","user":{"id":439511,"uid":"0-439511","name":"tsx_staging_sg1","type":"seller","avatar":"https://cf.shopee.sg/file/5539e4e9c60c28b4ead63830a092ef04","locale":"en","shop_id":439512,"country":"SG","status":"normal"},"version":1}'
+2020-07-24 13:47:05,729 - testcase.common.loggerInfo - INFO - 200
+2020-07-24 13:47:05,946 - testcase.common.loggerInfo - INFO - test_sendMessage_00004_expressionMessage (test_sendMessage.Test)
+2020-07-24 13:47:05,946 - testcase.common.loggerInfo - INFO - b'{"data":null,"error_code":"user_is_unauthorizedUser is unauthorized.","message":"user_is_unauthorizedUser is unauthorized."}'
+2020-07-24 13:47:05,947 - testcase.common.loggerInfo - INFO - 401
+2020-07-24 13:47:06,239 - testcase.common.loggerInfo - INFO - test_sendMessage_00005_goodsMessage (test_sendMessage.Test)
+2020-07-24 13:47:06,239 - testcase.common.loggerInfo - INFO - b'{"errcode":2, "message": "token not found"}'
+2020-07-24 13:47:06,239 - testcase.common.loggerInfo - INFO - 403
+2020-07-24 13:47:06,542 - testcase.common.loggerInfo - INFO - test_sendMessage_00006_imageNotExistMessage (test_sendMessage.Test)
+2020-07-24 13:47:06,543 - testcase.common.loggerInfo - INFO - b'{"errcode":2, "message": "token not found"}'
+2020-07-24 13:47:06,543 - testcase.common.loggerInfo - INFO - 403
+2020-07-24 13:47:06,835 - testcase.common.loggerInfo - INFO - test_sendMessage_00007_characterMessage (test_sendMessage.Test)
+2020-07-24 13:47:06,836 - testcase.common.loggerInfo - INFO - b'{"errcode":2, "message": "token not found"}'
+2020-07-24 13:47:06,836 - testcase.common.loggerInfo - INFO - 403

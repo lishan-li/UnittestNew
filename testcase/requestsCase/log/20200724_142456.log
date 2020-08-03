@@ -1,0 +1,3 @@
+2020-07-24 14:24:57,015 - testcase.common.loggerInfo - INFO - test
+2020-07-24 14:24:57,016 - testcase.common.loggerInfo - INFO - b'{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVhdGVfdGltZSI6MTU5NTU3MTg5NiwiaWQiOiI2NGQ3ZjExZi1jZDc2LTExZWEtODAzNC1jY2JiZmVkZjJhMWEifQ.J0OCjKm_Qb3bHxiuPWbA9C4-DBzHON6B75FE98KFwYM","p_token":"Y1FOU1Z4MkF1ZG1qQ3lBUWMqClKiXhAiGTeYKTn8jfs=","user":{"id":322265,"uid":"0-322265","name":"test_sg_002","type":"seller","avatar":"","locale":"zh-Hant","shop_id":322266,"country":"SG","status":"normal"},"version":1}'
+2020-07-24 14:24:57,016 - testcase.common.loggerInfo - INFO - 200
